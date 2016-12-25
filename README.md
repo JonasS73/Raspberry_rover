@@ -4,7 +4,7 @@ Information to build and code a rover consisting of: a raspberry pi ( 3 ) module
 the code is written in python. I included the option to use a wii remote to guide the rover( not yet uploaded).
 
 This project has the status "in progress". 
-    this means: It is possibly simply not working.
+This means: It is possibly simply not working.
 Right now the only thing it can do is blink an LED when an object is within 10 cm.
 
 # Problems you may have
